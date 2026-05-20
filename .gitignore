@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+outputs/
+results/*.json
+!results/.gitkeep
+!results/*_example.json
+data/curated/*/
+*.png
+.DS_Store
+wandb/
